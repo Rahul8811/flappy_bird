@@ -1,0 +1,1201 @@
+fileFormatVersion: 2
+guid: 427b28940b1a86f408c59348dd365dc9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 655
+        width: 82
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4872df8b1485ad747b6104068876fb26
+      internalID: -1209384186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 698
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbf551b2aaf07e4b9f3f3f3daaccfb9
+      internalID: -839993438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 132
+        width: 229
+        height: 625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c883d429bc6a494097511df7a68f889
+      internalID: -292856187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 132
+        width: 230
+        height: 625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291af16d182f47b4ab1b93cd042f9928
+      internalID: -108962799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 599
+        width: 215
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce15723883467644943405f7e5f1730
+      internalID: 1207609656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_5
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 710
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aab865be3b13b4a9ef301bc2214147
+      internalID: -1370093466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_6
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 710
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428910a70c50ec849aa8b1bc7c76a993
+      internalID: -377946994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_7
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 710
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9286b29afbbff4ca9885c03e9c8c92
+      internalID: 566456522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_8
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 680
+        width: 234
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf169ff5271b1024aae96f0ed4aa4e9e
+      internalID: 1079067690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_9
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 662
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2482ff6340426104ba37d8a4007c26d9
+      internalID: -144994807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_10
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 662
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9f3b0f28c24614b9c862d80f93e8ef
+      internalID: -248373673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_11
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 662
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dd92d6fb160f248ba18c72ecec3ab0
+      internalID: 95110772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_12
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 608
+        width: 242
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e51a60d8bda8140928a60afd3b53ba
+      internalID: 1422774643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 571
+        width: 133
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38d685e01c70a54cb19c25d347f0e0c
+      internalID: -662829578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_14
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 611
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf506bfb604c0a3499f186673d2c10df
+      internalID: 1793903903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_15
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 611
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a69db7ea3f24f3429f4303fd184880a
+      internalID: 1696600056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_16
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 611
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c4ccfa3173b924d919cd85b98870d4
+      internalID: -2029331218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 487
+        width: 132
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b13f9b0659883441aafd6611239ec58
+      internalID: 480830425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_18
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 455
+        width: 215
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39066fcc923d5d54cb5b140727183c83
+      internalID: -653623872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_19
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 443
+        width: 174
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de266a74d30b97a4bbc15ebfbe7a61d3
+      internalID: -18361992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_20
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 549
+        width: 132
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a129e2ff32b6bc45b949eb8f7d93e67
+      internalID: 1080794779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_21
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 549
+        width: 114
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d474d0363a4409c47a22bdc6c6a324b6
+      internalID: 862498381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 406
+        width: 133
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4df9b7cbdb90b42a2036a08c81e321
+      internalID: -1350539581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_23
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 303
+        width: 215
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6864450e24a2e4da28189ce1a0f73b
+      internalID: -164685654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_24
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 444
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaac177508054b459d0aedf0f98b18d
+      internalID: -1111446095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_25
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 444
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385012a492660834283ac28faad6340c
+      internalID: -1248921330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_26
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 445
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3b6181f623be741827f323f1d344f4
+      internalID: -1760842752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_27
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 445
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45303bfd00b053449bd7aa24a44fa56
+      internalID: -1717485614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_28
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 361
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d27b790ce42644fafcfed22ca6c8f5
+      internalID: 1477917446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_29
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 361
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8841ff0a3de5db946a2ac156121a7c3a
+      internalID: -725115740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_30
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 361
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcbb6bc0c3f57e4ebafd70f7f0c66a8
+      internalID: 1821129689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_31
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 361
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c800961eb1aaa747965a2251cab0102
+      internalID: 491673978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_32
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 112
+        width: 326
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b071fd277af6a4eb6dea8f981d48bd
+      internalID: 1324493248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_33
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 277
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda6a6868db83d143b300c78f466c847
+      internalID: -1997321785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_34
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 277
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068c27436e8834345a64f97e61ae9bac
+      internalID: 1095512441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_35
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 67
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c7b986977926541af514bc53689c0e
+      internalID: -797613994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_36
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 64
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a137a5e400efd4699ae48f80c7a802
+      internalID: -1335591771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_37
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 64
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd36a48fef4edfe41bc58c7c3c0c0522
+      internalID: 1974066139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_38
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 67
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c4d251a5ef7884591c2a6d172c7045
+      internalID: 1326923302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_39
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 67
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864f1ec61bf01d7418d767db8c9097e3
+      internalID: -683300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_40
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 67
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6008db6e28354ba4eb08b28b5258fd58
+      internalID: 1841975647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_41
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 64
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84830064bb0aa844949663b99dcaaf6
+      internalID: 1625686928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_42
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 74
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215c4b23d0b83d247b18be08fa16d7db
+      internalID: 879052979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_43
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 67
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec73064641db624f828f4dc7181365f
+      internalID: 1284300617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_44
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 0
+        width: 112
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a58ba39bed181041819b2d61e58e5a6
+      internalID: 737682522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-flappy-bird-pipe-png-1831549_45
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 4
+        width: 272
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123fcb12b7c7e4945bcd700561da24f4
+      internalID: 2036535929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9c0cc7865d413da4e96ae8ab6d6c9d84
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngkey.com-flappy-bird-pipe-png-1831549_0: -1209384186
+      pngkey.com-flappy-bird-pipe-png-1831549_1: -839993438
+      pngkey.com-flappy-bird-pipe-png-1831549_10: -248373673
+      pngkey.com-flappy-bird-pipe-png-1831549_11: 95110772
+      pngkey.com-flappy-bird-pipe-png-1831549_12: 1422774643
+      pngkey.com-flappy-bird-pipe-png-1831549_13: -662829578
+      pngkey.com-flappy-bird-pipe-png-1831549_14: 1793903903
+      pngkey.com-flappy-bird-pipe-png-1831549_15: 1696600056
+      pngkey.com-flappy-bird-pipe-png-1831549_16: -2029331218
+      pngkey.com-flappy-bird-pipe-png-1831549_17: 480830425
+      pngkey.com-flappy-bird-pipe-png-1831549_18: -653623872
+      pngkey.com-flappy-bird-pipe-png-1831549_19: -18361992
+      pngkey.com-flappy-bird-pipe-png-1831549_2: -292856187
+      pngkey.com-flappy-bird-pipe-png-1831549_20: 1080794779
+      pngkey.com-flappy-bird-pipe-png-1831549_21: 862498381
+      pngkey.com-flappy-bird-pipe-png-1831549_22: -1350539581
+      pngkey.com-flappy-bird-pipe-png-1831549_23: -164685654
+      pngkey.com-flappy-bird-pipe-png-1831549_24: -1111446095
+      pngkey.com-flappy-bird-pipe-png-1831549_25: -1248921330
+      pngkey.com-flappy-bird-pipe-png-1831549_26: -1760842752
+      pngkey.com-flappy-bird-pipe-png-1831549_27: -1717485614
+      pngkey.com-flappy-bird-pipe-png-1831549_28: 1477917446
+      pngkey.com-flappy-bird-pipe-png-1831549_29: -725115740
+      pngkey.com-flappy-bird-pipe-png-1831549_3: -108962799
+      pngkey.com-flappy-bird-pipe-png-1831549_30: 1821129689
+      pngkey.com-flappy-bird-pipe-png-1831549_31: 491673978
+      pngkey.com-flappy-bird-pipe-png-1831549_32: 1324493248
+      pngkey.com-flappy-bird-pipe-png-1831549_33: -1997321785
+      pngkey.com-flappy-bird-pipe-png-1831549_34: 1095512441
+      pngkey.com-flappy-bird-pipe-png-1831549_35: -797613994
+      pngkey.com-flappy-bird-pipe-png-1831549_36: -1335591771
+      pngkey.com-flappy-bird-pipe-png-1831549_37: 1974066139
+      pngkey.com-flappy-bird-pipe-png-1831549_38: 1326923302
+      pngkey.com-flappy-bird-pipe-png-1831549_39: -683300196
+      pngkey.com-flappy-bird-pipe-png-1831549_4: 1207609656
+      pngkey.com-flappy-bird-pipe-png-1831549_40: 1841975647
+      pngkey.com-flappy-bird-pipe-png-1831549_41: 1625686928
+      pngkey.com-flappy-bird-pipe-png-1831549_42: 879052979
+      pngkey.com-flappy-bird-pipe-png-1831549_43: 1284300617
+      pngkey.com-flappy-bird-pipe-png-1831549_44: 737682522
+      pngkey.com-flappy-bird-pipe-png-1831549_45: 2036535929
+      pngkey.com-flappy-bird-pipe-png-1831549_5: -1370093466
+      pngkey.com-flappy-bird-pipe-png-1831549_6: -377946994
+      pngkey.com-flappy-bird-pipe-png-1831549_7: 566456522
+      pngkey.com-flappy-bird-pipe-png-1831549_8: 1079067690
+      pngkey.com-flappy-bird-pipe-png-1831549_9: -144994807
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
